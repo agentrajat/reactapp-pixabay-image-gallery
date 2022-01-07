@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/reactapp-pixabay-image-gallery/static/css/main.e6c13ad2.css",
-    "main.js": "/reactapp-pixabay-image-gallery/static/js/main.cd3f3c84.js",
+    "main.js": "/reactapp-pixabay-image-gallery/static/js/main.c4129b82.js",
     "index.html": "/reactapp-pixabay-image-gallery/index.html",
     "main.e6c13ad2.css.map": "/reactapp-pixabay-image-gallery/static/css/main.e6c13ad2.css.map",
-    "main.cd3f3c84.js.map": "/reactapp-pixabay-image-gallery/static/js/main.cd3f3c84.js.map"
+    "main.c4129b82.js.map": "/reactapp-pixabay-image-gallery/static/js/main.c4129b82.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.cd3f3c84.js"
+    "static/js/main.c4129b82.js"
   ]
 }
